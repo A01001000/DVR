@@ -1,4 +1,4 @@
-# DVR: Multi-Modal Deformable Image Registration of the Brain and Abdomen with Reinforcement Learning using a hybrid Dino-Reg and Vlearn model
+# DVR: Multi-Modal Deformable Image Registration of the Brain and Abdomen with Reinforcement Learning using a Hybrid Dino-Reg and Vlearn model
 
 This repository contains the files necessary to execute the baseline, DVR, and ablation models involved in the project. Refer to the following sections for instructions regarding how to navigate the different files and implement intended functions.\
 
