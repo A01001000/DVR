@@ -23,6 +23,8 @@ Each baseline model (SyN, VoxelMorph, NestedMorph, Dino-Reg, SPAC) contains its 
 * SPAC: First run spac-data.slurm & spac-data-test.slurm to fix data format for this model then run spac-l2r.slurm, spac-mrxfdg.slurm, & spac-test.slurm for training and testing
 
 ## Main DVR Models
+<img width="742" height="525" alt="Screen Shot 2026-09-20 at 8 13 18 PM" src="https://github.com/user-attachments/assets/0688a149-6e8c-4bed-b2b4-e5dbb099f06f" />
+
 1. Download the DINOv2 pretrained model using the code below and store it in dvr/pretrained-models:
 ```
     wget https://dl.fbaipublicfiles.com/dinov2/dinov2_vitl14/dinov2_vitl14_reg4_pretrain.pth
@@ -43,3 +45,5 @@ For the these, use the main DVR models' slurm files as normal, but modify the im
 
 ## Main DVR & Ablation Results
 The results are in the 'dvr-experiments' folder. The main results of the DVR model for each dataset are in csv files in the 'Models" subfolder while that of the ablation studies are in 'Ablation'.
+<img width="740" height="351" alt="Screen Shot 2026-09-20 at 8 13 32 PM" src="https://github.com/user-attachments/assets/f33b4de2-a383-403e-a003-d86b57377a2f" />
+<img width="751" height="350" alt="Screen Shot 2026-09-20 at 8 13 44 PM" src="https://github.com/user-attachments/assets/2ee93cbd-0430-4136-b76c-941cbae288a4" />
