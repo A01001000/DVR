@@ -1,0 +1,1 @@
+{"smooth_weight": 2, "lr": 3, "num_iter": 1000, "fm_downsample": 1, "feature_size": [80, 70], "useSavedPCA": false, "DINOReg_useMask": true, "window": true, "convex": false, "ztrans": false, "iter_smooth_num": 5, "iter_smooth_kernel": 7, "final_upsample": 1, "mask": "slice fill stack"}

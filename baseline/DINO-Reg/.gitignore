@@ -1,0 +1,16 @@
+# VSCode settings
+.vscode/
+
+# PyCharm / IntelliJ IDEA settings
+.idea/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+
+# OS files
+.DS_Store
+Thumbs.db

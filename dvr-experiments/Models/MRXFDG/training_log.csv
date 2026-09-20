@@ -1,0 +1,1 @@
+Epoch,Avg_Update_Loss,Avg_Reward,Avg_Flow_Magnitude,Val_MIND,Total_Updates_This_Epoch,Current_Alpha,Avg_Critic_Loss,Avg_Actor_Loss,Avg_Alpha_Loss,Avg_Total_Coarse_Weight,Avg_Coarse_Reward,Avg_Fine_Reward,Avg Smooth Penalty,Avg Magnitude Penalty,Critic Learning Rate,Actor Learning Rate

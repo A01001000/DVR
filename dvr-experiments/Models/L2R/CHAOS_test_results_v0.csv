@@ -1,0 +1,12 @@
+Metric,Value
+dice,0.3743769793399671
+dice_std,0.27290352403678164
+hd95,140.66456985417886
+hd95_std,324.6002985022331
+jacobian_neg_percent,12.5
+inference_time,0.17317166924476624
+num_parameters,1234184
+organ_1_dice,0.3743769793399671
+organ_1_dice_std,0.27290352403678164
+
+lr = 3e-6, target_entropy = -5

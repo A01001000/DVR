@@ -1,0 +1,16 @@
+numpy<1.25
+torch
+torchvision
+python-mnist
+pillow
+opencv-python
+matplotlib
+seaborn
+tensorboardX
+antspyx
+SimpleITK
+opencv-python==4.9.0.80
+nibabel
+scikit-learn
+pystrum
+antspyx

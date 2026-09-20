@@ -1,0 +1,18 @@
+Metric,Value
+dice,0.34288225752364687
+dice_std,0.23367810421937465
+hd95,20.988723303492407
+hd95_std,10.640652897704863
+jacobian_neg_percent,0.0
+inference_time,0.23061496019363403
+num_parameters,1234184
+organ_1_dice,0.536840763494027
+organ_1_dice_std,0.18783135157617792
+organ_2_dice,0.37691941670044893
+organ_2_dice_std,0.22377981418476606
+organ_3_dice,0.3072435312251409
+organ_3_dice_std,0.18012737825560013
+organ_4_dice,0.15052531867497077
+organ_4_dice_std,0.1535193483538912
+
+no masking in dino encoder, multiscale reward, lr_max = 5e-7, target_entropy = 5, no cosine annealing or max curriculum learning (max steps changing)
